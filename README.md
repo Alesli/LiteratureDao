@@ -1,6 +1,6 @@
 # LiteratureDao
 
-##Project description.
+## Project description.
 
 ***This project demonstrates usage of Java technologies to create console application.***
 Currently it lacks many features, but the purpose was just to demonstrate my knowledge of Java core.
