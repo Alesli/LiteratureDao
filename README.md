@@ -13,7 +13,6 @@ The application displays the result of the queries in the console: authors  (val
 - `Facade Design pattern` (Intermediate layer for business logic, can be used to integrate data for multiple sources)
 - Tools: git, maven
 - Database: `Mysql`, version 5.1.47
-- Property package with `CRUD Concept Application` (Create, Read, Update, Delete)
 - `Lombok`, version 1.18.2
  ***
 ## Installation instructions:
